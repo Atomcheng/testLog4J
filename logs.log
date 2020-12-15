@@ -1,0 +1,208 @@
+2020-12-15 15:19:48,288 jjc.log4jTest.TestLog4j.main(TestLog4j.java:24) main
+FATAL:致命信息
+2020-12-15 15:19:48,290 jjc.log4jTest.TestLog4j.main(TestLog4j.java:25) main
+ERROR:错误信息
+2020-12-15 15:19:48,290 jjc.log4jTest.TestLog4j.main(TestLog4j.java:26) main
+WARN:警告信息
+2020-12-15 15:19:48,291 jjc.log4jTest.TestLog4j.main(TestLog4j.java:27) main
+DEBUG:调试信息
+2020-12-15 15:19:48,291 jjc.log4jTest.TestLog4j.main(TestLog4j.java:28) main
+INFO:通知信息
+2020-12-15 15:19:48,325 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-0
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,325 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-6
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,327 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-50
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,327 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-49
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,327 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-48
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,328 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-59
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,328 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-56
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,327 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-47
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,327 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-46
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,327 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-45
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,327 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-44
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,327 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-43
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,327 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-42
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,327 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-41
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,327 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-40
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,327 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-39
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,327 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-38
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,327 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-37
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,327 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-36
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,327 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-35
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,327 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-34
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,326 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-32
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,326 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-33
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,326 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-31
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,326 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-30
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,326 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-29
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,326 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-28
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,326 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-27
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,326 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-26
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,326 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-25
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,326 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-24
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,326 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-23
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,326 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-22
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,326 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-21
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,326 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-20
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,326 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-19
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,326 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-17
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,326 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-18
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,326 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-16
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,326 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-15
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,326 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-14
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,326 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-13
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,326 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-12
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,326 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-9
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,326 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-8
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,326 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-7
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,325 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-11
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,325 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-10
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,325 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-5
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,325 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-4
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,325 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-3
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,325 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-2
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,325 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-1
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,330 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-97
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,330 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-98
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,330 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-95
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,330 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-96
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,329 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-94
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,329 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-93
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,329 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-92
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,329 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-91
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,329 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-90
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,329 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-89
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,329 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-88
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,329 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-87
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,329 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-86
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,329 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-85
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,329 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-84
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,329 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-83
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,329 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-82
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,329 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-81
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,329 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-80
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,329 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-79
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,329 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-78
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,329 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-77
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,329 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-76
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,329 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-75
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,329 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-74
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,329 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-73
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,329 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-72
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,329 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-71
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,329 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-70
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,329 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-69
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,328 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-65
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,328 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-68
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,328 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-67
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,328 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-66
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,328 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-64
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,328 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-63
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,328 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-62
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,328 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-61
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,328 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-60
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,328 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-58
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,328 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-57
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,327 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-55
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,327 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-54
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,327 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-52
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,327 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-53
+WARN:通过调用log方法进行记录
+2020-12-15 15:19:48,327 jjc.log4jTest.TestLog4j.log(TestLog4j.java:17) Thread-51
+WARN:通过调用log方法进行记录
